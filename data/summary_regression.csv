@@ -1,0 +1,6 @@
+,Model 2.1,Model 2.2
+Rows,104.0,208.0
+CV R2,0.305,0.176
+CV RMSE,1.671,1.255
+Baseline RMSE,2.022,1.392
+Adjusted R2,0.395,0.235
